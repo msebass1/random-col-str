@@ -1,0 +1,23 @@
+{
+  "name": "random-col-str",
+  "version": "1.0.0",
+  "description": "Random Colombian Phrases generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msebass1/random-col-str.git"
+  },
+  "author": "msebass1",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/msebass1/random-col-str/issues"
+  },
+  "homepage": "https://github.com/msebass1/random-col-str#readme",
+  "bin": {
+    "random-col-str": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
